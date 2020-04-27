@@ -1,0 +1,6 @@
+framework module SYGSDK {
+  umbrella header "SYGSDK.h"
+
+  export *
+  module * { export * }
+}
