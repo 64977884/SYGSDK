@@ -112,6 +112,26 @@
 		<data>
 		LC8Z2K/hfx3Y8Ob5xYP28ujxcbA=
 		</data>
+		<key>Headers/filt_algorithm.h</key>
+		<data>
+		0FGGsYLHDO4MD7aYSRmm4r4/mHI=
+		</data>
+		<key>Headers/filter_noise_dot_runtime.h</key>
+		<data>
+		jXr4+ghlRvDXWKufQHFOFRXkwL8=
+		</data>
+		<key>Headers/filter_noise_dot_runtime_addapter.h</key>
+		<data>
+		vyA+YwKvXeVUSjkr0XoaaWP3U5Y=
+		</data>
+		<key>Headers/msg_dbg.h</key>
+		<data>
+		y9IJDuePQyxOI0YMbUdHeQ/aXhI=
+		</data>
+		<key>Headers/stroke_struct.h</key>
+		<data>
+		3AphyUpMW1tpc5egUg1zu2IF3oA=
+		</data>
 		<key>Info.plist</key>
 		<data>
 		TbW8w/7ajtNJX7MJL1M697xZjGk=
@@ -418,6 +438,61 @@
 			<key>hash2</key>
 			<data>
 			GRIs1rMSYb/EaaC+hkNfHxOiHatmSz9q1B8F9hJ8zI8=
+			</data>
+		</dict>
+		<key>Headers/filt_algorithm.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0FGGsYLHDO4MD7aYSRmm4r4/mHI=
+			</data>
+			<key>hash2</key>
+			<data>
+			VUnnYnkruzh/Jdn/s/nOfoQQiPKHZRkJ3XYqFw5tXwQ=
+			</data>
+		</dict>
+		<key>Headers/filter_noise_dot_runtime.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jXr4+ghlRvDXWKufQHFOFRXkwL8=
+			</data>
+			<key>hash2</key>
+			<data>
+			nplifHjBwnDL3yMrTA8eyYXRbIEx6mOEa61wrkI8ERk=
+			</data>
+		</dict>
+		<key>Headers/filter_noise_dot_runtime_addapter.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vyA+YwKvXeVUSjkr0XoaaWP3U5Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			OsCfMFdOIaBGGh1peL/sY+wLUFdi02uiVmxmDxjfqPI=
+			</data>
+		</dict>
+		<key>Headers/msg_dbg.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			y9IJDuePQyxOI0YMbUdHeQ/aXhI=
+			</data>
+			<key>hash2</key>
+			<data>
+			TfkP4o1ZqXgIAGclqecGUacLzn2TayNBlK4TPlsP1Pc=
+			</data>
+		</dict>
+		<key>Headers/stroke_struct.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3AphyUpMW1tpc5egUg1zu2IF3oA=
+			</data>
+			<key>hash2</key>
+			<data>
+			EkiJ3LfkWXFOBuS9/RRRO2sMAJ169ArevnOq5wofW+Y=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
